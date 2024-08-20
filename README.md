@@ -1,6 +1,5 @@
 # site-pessoal-julia
 Código-fonte do meu site pessoal.
-markdownCopiar código
 # Site Pessoal
 
 Este repositório contém o código-fonte do meu site pessoal.
